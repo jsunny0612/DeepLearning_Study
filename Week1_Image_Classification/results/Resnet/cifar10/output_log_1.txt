@@ -1,0 +1,51 @@
+
+======= Resnet_CIFAR10_Epoch 1/10 =======
+Epoch 1:
+Train Loss: 0.3279, Train Accuracy: 89.01%
+Test Loss: 0.1977, Test Accuracy: 93.36%
+
+======= Resnet_CIFAR10_Epoch 2/10 =======
+Epoch 2:
+Train Loss: 0.0970, Train Accuracy: 96.91%
+Test Loss: 0.1920, Test Accuracy: 93.62%
+
+======= Resnet_CIFAR10_Epoch 3/10 =======
+Epoch 3:
+Train Loss: 0.0425, Train Accuracy: 98.74%
+Test Loss: 0.1951, Test Accuracy: 93.75%
+
+======= Resnet_CIFAR10_Epoch 4/10 =======
+Epoch 4:
+Train Loss: 0.0346, Train Accuracy: 98.89%
+Test Loss: 0.2276, Test Accuracy: 93.06%
+
+======= Resnet_CIFAR10_Epoch 5/10 =======
+Epoch 5:
+Train Loss: 0.0340, Train Accuracy: 98.90%
+Test Loss: 0.2115, Test Accuracy: 93.76%
+
+======= Resnet_CIFAR10_Epoch 6/10 =======
+Epoch 6:
+Train Loss: 0.0258, Train Accuracy: 99.14%
+Test Loss: 0.2282, Test Accuracy: 93.78%
+
+======= Resnet_CIFAR10_Epoch 7/10 =======
+Epoch 7:
+Train Loss: 0.0226, Train Accuracy: 99.28%
+Test Loss: 0.2317, Test Accuracy: 93.91%
+
+======= Resnet_CIFAR10_Epoch 8/10 =======
+Epoch 8:
+Train Loss: 0.0236, Train Accuracy: 99.22%
+Test Loss: 0.1982, Test Accuracy: 94.60%
+
+======= Resnet_CIFAR10_Epoch 9/10 =======
+Epoch 9:
+Train Loss: 0.0187, Train Accuracy: 99.36%
+Test Loss: 0.2553, Test Accuracy: 93.21%
+
+======= Resnet_CIFAR10_Epoch 10/10 =======
+Epoch 10:
+Train Loss: 0.0190, Train Accuracy: 99.35%
+Test Loss: 0.2358, Test Accuracy: 94.07%
+Total time: 0h 24m 6s

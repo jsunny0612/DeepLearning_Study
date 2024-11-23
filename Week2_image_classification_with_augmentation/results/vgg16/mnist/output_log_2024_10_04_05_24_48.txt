@@ -1,0 +1,51 @@
+
+======= Epoch 1/10 =======
+Train Loss: 0.1666, Train Accuracy: 94.82%
+Validation Loss: 0.0488, Validation Accuracy: 98.68%
+Test Loss: 0.0418, Test Accuracy: 98.69%
+
+======= Epoch 2/10 =======
+Train Loss: 0.0632, Train Accuracy: 98.15%
+Validation Loss: 0.0401, Validation Accuracy: 98.60%
+Test Loss: 0.0316, Test Accuracy: 99.01%
+
+======= Epoch 3/10 =======
+Train Loss: 0.0452, Train Accuracy: 98.67%
+Validation Loss: 0.0329, Validation Accuracy: 98.97%
+Test Loss: 0.0294, Test Accuracy: 99.01%
+
+======= Epoch 4/10 =======
+Train Loss: 0.0408, Train Accuracy: 98.80%
+Validation Loss: 0.0337, Validation Accuracy: 99.07%
+Test Loss: 0.0234, Test Accuracy: 99.26%
+
+======= Epoch 5/10 =======
+Train Loss: 0.0392, Train Accuracy: 98.95%
+Validation Loss: 0.0399, Validation Accuracy: 98.83%
+Test Loss: 0.0386, Test Accuracy: 98.76%
+
+======= Epoch 6/10 =======
+Train Loss: 0.0374, Train Accuracy: 98.88%
+Validation Loss: 0.0310, Validation Accuracy: 99.25%
+Test Loss: 0.0229, Test Accuracy: 99.32%
+
+======= Epoch 7/10 =======
+Train Loss: 0.0289, Train Accuracy: 99.19%
+Validation Loss: 0.0409, Validation Accuracy: 99.00%
+Test Loss: 0.0285, Test Accuracy: 99.21%
+
+======= Epoch 8/10 =======
+Train Loss: 0.0291, Train Accuracy: 99.21%
+Validation Loss: 0.0208, Validation Accuracy: 99.38%
+Test Loss: 0.0171, Test Accuracy: 99.46%
+
+======= Epoch 9/10 =======
+Train Loss: 0.0260, Train Accuracy: 99.27%
+Validation Loss: 0.0241, Validation Accuracy: 99.38%
+Test Loss: 0.0245, Test Accuracy: 99.33%
+
+======= Epoch 10/10 =======
+Train Loss: 0.0266, Train Accuracy: 99.22%
+Validation Loss: 0.0226, Validation Accuracy: 99.23%
+Test Loss: 0.0219, Test Accuracy: 99.25%
+Total time: 0h 54m 25s

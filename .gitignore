@@ -1,3 +1,5 @@
+
+.idea/
 Week1_Image_Classification/data/
 Week1_Image_Classification/results
 Week1_Image_Classification/runs
@@ -9,4 +11,14 @@ Week2_image_classification_with_augmentation/runs
 Week5_Text_classification/results
 Week5_Text_classification/runs
 
-.idea
+# Python 캐시 파일 제외
+__pycache__/
+*.pyc
+
+# Jupyter Notebook 체크포인트 제외
+.ipynb_checkpoints/
+
+
+
+
+

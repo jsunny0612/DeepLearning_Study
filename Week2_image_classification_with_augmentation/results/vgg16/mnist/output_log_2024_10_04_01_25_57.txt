@@ -1,1 +1,0 @@
-MNIST Datasets are not existed.

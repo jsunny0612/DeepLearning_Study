@@ -1,6 +1,7 @@
 
 # **Deeplearning_Study**
 
+
 ---
 
 ## **Week 1: Image Classification**
@@ -27,7 +28,7 @@
   - 그래디언트 클리핑을 도입하여 학습 안정성과 성능을 개선.
   - MNIST와 CIFAR-10 데이터셋에서 더 나은 분류 성능을 달성.
 
----
+--
 
 ## **Week 5: Text Classification**
 
@@ -41,10 +42,6 @@
   - 다양한 모델 아키텍처를 비교하고, 각 모델의 성능과 특징 분석.
   - Transformer Encoder, BERT, LSTM 모델의 차이를 이해하고 실험.
 
----
+--
 
 
-### **연락처**
-
-- 작성자: jsunny0612  
-- 문의: [GitHub Profile](https://github.com/jsunny0612)

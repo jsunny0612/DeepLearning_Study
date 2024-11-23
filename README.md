@@ -2,8 +2,6 @@
 # **Deeplearning_Study**
 
 
----
-
 ## **Week 1: Image Classification**
 
 - **목적**: MNIST 및 CIFAR-10 데이터셋을 활용하여 이미지 분류(Image Classification)를 수행.
@@ -14,7 +12,6 @@
   - 사전 학습된 모델(Pre-trained model)을 사용하여 MNIST 및 CIFAR-10 데이터셋에서 이미지 분류를 수행.
   - 모델의 학습 및 평가를 통해 기본적인 딥러닝 기반 이미지 분류 기법을 이해
 
----
 
 ## **Week 2: Image Classification with Custom Models and Techniques**
 
@@ -28,7 +25,7 @@
   - 그래디언트 클리핑을 도입하여 학습 안정성과 성능을 개선.
   - MNIST와 CIFAR-10 데이터셋에서 더 나은 분류 성능을 달성.
 
---
+
 
 ## **Week 5: Text Classification**
 
@@ -42,6 +39,6 @@
   - 다양한 모델 아키텍처를 비교하고, 각 모델의 성능과 특징 분석.
   - Transformer Encoder, BERT, LSTM 모델의 차이를 이해하고 실험.
 
---
+
 
 

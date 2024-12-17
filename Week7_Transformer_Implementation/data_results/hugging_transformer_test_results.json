@@ -1,0 +1,402 @@
+[
+    {
+        "ref": "Ein Mann mit einem orangefarbenen Hut, der etwas anstarrt.",
+        "hyp": "Ein Mann mit einem orangefarbenen Hut spricht auf einer orangefarbenen Baustelle."
+    },
+    {
+        "ref": "Ein Boston Terrier l\u00e4uft \u00fcber saftig-gr\u00fcnes Gras vor einem wei\u00dfen Zaun.",
+        "hyp": "Ein Mann in einem wei\u00dfen Anzug rennt vor einem gr\u00fcnen Zaun, w\u00e4hrend ein anderer Mann im Gras l\u00e4uft."
+    },
+    {
+        "ref": "Ein M\u00e4dchen in einem Karateanzug bricht ein Brett mit einem Tritt.",
+        "hyp": "Ein M\u00e4dchen mit einem nacktem Oberteil und einem schwarzen Schal steht vor einem Geb\u00e4ude."
+    },
+    {
+        "ref": "F\u00fcnf Leute in Winterjacken und mit Helmen stehen im Schnee mit Schneemobilen im Hintergrund.",
+        "hyp": "F\u00fcnf Personen in einer Jacke stehen am Strand, im Hintergrund steht ein schneebedecktes Kleid."
+    },
+    {
+        "ref": "Leute Reparieren das Dach eines Hauses.",
+        "hyp": "Menschen stehen am Strand und einer von der Sonne."
+    },
+    {
+        "ref": "Ein hell gekleideter Mann fotografiert eine Gruppe von M\u00e4nnern in dunklen Anz\u00fcgen und mit H\u00fcten, die um eine Frau in einem tr\u00e4gerlosen Kleid herum stehen.",
+        "hyp": "Ein Mann mit einer farbenfrohen Weste und einer \u00e4rmellosen Hemd steht auf einer nassen nacktem Oberk\u00f6rper."
+    },
+    {
+        "ref": "Eine Gruppe von Menschen steht vor einem Iglu.",
+        "hyp": "Eine Gruppe von Menschen steht vor einem orangefarbenen Geb\u00e4ude und wartet auf einen Gehweg."
+    },
+    {
+        "ref": "Ein Junge in einem roten Trikot versucht, die Home Base zu erreichen, w\u00e4hrend der Catcher im blauen Trikot versucht, ihn zu fangen.",
+        "hyp": "Ein Junge in einem roten Pullover, w\u00e4hrend ein Junge in einem blauen Oberteil auf dem Boden liegt."
+    },
+    {
+        "ref": "Ein Typ arbeitet an einem Geb\u00e4ude.",
+        "hyp": "Ein Mann mit einem nacktem Oberk\u00f6rper macht einen Salto."
+    },
+    {
+        "ref": "Ein Mann in einer Weste sitzt auf einem Stuhl und h\u00e4lt Magazine.",
+        "hyp": "Ein Mann sitzt in einem Stuhl und h\u00e4lt eine b\u00e4rte Tasche."
+    },
+    {
+        "ref": "Eine Mutter und ihr kleiner Sohn genie\u00dfen einen sch\u00f6nen Tag im Freien.",
+        "hyp": "Eine junge Frau genie\u00dft ein kleinen Junge im Freien an einem sonnigen Tag."
+    },
+    {
+        "ref": "M\u00e4nner, die Volleyball spielen, wobei ein Mann den Ball nicht trifft, w\u00e4hrend seine H\u00e4nde immer noch in der Luft sind.",
+        "hyp": "Ein m\u00e4nnlicher Tennisspieler in der Luft, der ein anderer in der Luft fliegt einen Ball."
+    },
+    {
+        "ref": "Eine Frau, die in einer K\u00fcche eine Schale mit Essen h\u00e4lt.",
+        "hyp": "Ein Mann in einer K\u00fcche h\u00e4lt eine rote Tasche in der Hand."
+    },
+    {
+        "ref": "Ein sitzender Mann, der an einem Tisch in seinem Haus mit einem Werkzeug arbeitet.",
+        "hyp": "Ein Mann sitzt an einem Tisch in einem Gesch\u00e4ft, der ein Buch tr\u00e4gt, sitzt an einem Tisch."
+    },
+    {
+        "ref": "Drei Leute sitzen in einer H\u00f6hle.",
+        "hyp": "Drei Personen sitzen in einem Restaurant und essen ein Mann in einem Gesch\u00e4ft."
+    },
+    {
+        "ref": "Ein M\u00e4dchen in einem Jeanskleid l\u00e4uft \u00fcber einen erh\u00f6hten Schwebebalken.",
+        "hyp": "Ein M\u00e4dchen in einem farbenfrohen Kleid geht an einem teil vorbei, w\u00e4hrend ein anderes M\u00e4dchen in einem rosafarbenen Kleid vorbeigeht."
+    },
+    {
+        "ref": "Eine Blondine h\u00e4lt mit einem Mann im Sand H\u00e4ndchen.",
+        "hyp": "Ein blonder Mann in einem blonder Kleidung h\u00e4lt einen blonden Jungen im Sand und h\u00e4lt einen blonden Jungen."
+    },
+    {
+        "ref": "Eine Frau in einem Grauen Pulli und mit einer schwarzen Baseballm\u00fctze steht in einem Gesch\u00e4ft in der Schlange.",
+        "hyp": "Ein schwarz gekleideter Mann steht auf einer grauen Leiter und tr\u00e4gt ein schwarzes T-Shirt."
+    },
+    {
+        "ref": "Die Person im gestreiften Shirt klettert auf einen Berg.",
+        "hyp": "Die Person im Shirt klettert auf den Bergen eines Berges im Felsen."
+    },
+    {
+        "ref": "Zwei M\u00e4nner tun so als seien sie Statuen, w\u00e4hrend Frauen ihnen zusehen.",
+        "hyp": "Zwei M\u00e4nner schauen zu, wie ein ihnen ihnen ein hat, w\u00e4hrend eine ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen ihnen"
+    },
+    {
+        "ref": "Leute, die vor einem Geb\u00e4ude stehen.",
+        "hyp": "Menschen stehen vor einem Geb\u00e4ude mit einem Gesch\u00e4ft und au\u00dferhalb eines Geb\u00e4udes."
+    },
+    {
+        "ref": "Eine Teenagerin spielt bei einem Spiel Trompete auf dem Feld.",
+        "hyp": "Ein Mann sitzt auf einem Stuhl und hat ein Buch an."
+    },
+    {
+        "ref": "Eine Frau macht einen Salto auf einem Trampolin am Strand.",
+        "hyp": "Ein Mann mit einem nacktem Oberk\u00f6rper und einem blauen Schwimmweste guckt am Strand."
+    },
+    {
+        "ref": "Ein Mann steht bei einigen Spielautomaten in einer Bar.",
+        "hyp": "Ein Mann steht neben einer Gruppe von einem Mann in einem braunen Anzug und hat einen gelegt."
+    },
+    {
+        "ref": "Eine Frau verwendet eine Bohrmaschine w\u00e4hrend ein Mann sie fotografiert.",
+        "hyp": "Ein Mann schiebt ein anderer Mann auf einem w\u00e4hrend ein anderer Mann im Vordergrund h\u00e4lt."
+    },
+    {
+        "ref": "Eine Frau in einem pinken Pulli und einer Sch\u00fcrze putzt einen Tisch mit einem Schwamm.",
+        "hyp": "Ein Mann in einem rosafarbenen Pullover, rosafarbenen Pullover und mit einem rosafarbenen Hut, sitzt auf einem Tisch."
+    },
+    {
+        "ref": "Ein Mann schneidet ste von B\u00e4umen.",
+        "hyp": "Ein Mann f\u00e4hrt mit dem Fahrrad."
+    },
+    {
+        "ref": "Eine Gruppe Asiatischer Jungen wartet am Grill darauf, dass Fleisch gar wird.",
+        "hyp": "Ein asiatisch aussehender Junge sitzt auf einer gro\u00dfen nassen Felsen, w\u00e4hrend eine asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen asiatischen"
+    },
+    {
+        "ref": "Frauen, die traditionelle Kleidung tragen, spielen das Leben Einheimischer nach.",
+        "hyp": "Eine Dame, die ein schwarzes Oberteil, tr\u00e4gt,, w\u00e4hrend sie auf dem R\u00fccken hat."
+    },
+    {
+        "ref": "Ein Mann dr\u00fcckt den Kopf eines anderen Mannes nach unten und will ihm ins Gesicht schlagen.",
+        "hyp": "Ein Mann in einem orangefarbenen Pullover h\u00e4lt eine andere Person, die einen anderen Mann in der Hand h\u00e4lt, w\u00e4hrend ein anderer Mann im Hintergrund ein anderer Mann zusieht."
+    },
+    {
+        "ref": "Sechs Leute fahren Mountainbikes durch eine Dschungellandschaft.",
+        "hyp": "Eine Gruppe von Menschen f\u00e4hrt auf einem Felsen durch eine Stadt."
+    },
+    {
+        "ref": "2 blonde M\u00e4dchen sitzen auf einem Absatz auf einem belebten Platz.",
+        "hyp": "Zwei blonde M\u00e4dchen sitzen in einem Gesch\u00e4ft und essen ein blonder Junge in einem Gesch\u00e4ft."
+    },
+    {
+        "ref": "Ein Kind planscht im Wasser.",
+        "hyp": "Ein Kind im Wasser schiebt ein Kind am Wasser."
+    },
+    {
+        "ref": "Drei Leute sitzen an einem Picknicktisch vor einem Geb\u00e4ude, das wie der Union Jack bemalt ist.",
+        "hyp": "Drei Personen sitzen an einem Tisch vor einem Gesch\u00e4ft, der ein Mann sitzt, tr\u00e4gt, sitzt drau\u00dfen auf einem Tisch vor einem Tisch im Freien."
+    },
+    {
+        "ref": "3 Jungen stehen in ihren Badehosen auf einem Pier.",
+        "hyp": "Ein kleiner Junge in einem farbenfrohen Kost\u00fcm steht auf einem Felsen und schaut sich die H\u00e4nde an."
+    },
+    {
+        "ref": "Ein Angestellter reicht einer Frau auf einem Markt eine T\u00fcte, w\u00e4hrend sie auf Eis gelegten Fisch begutachtet.",
+        "hyp": "Ein afroamerikanischer Mann schiebt einen swagen auf einer Stra\u00dfe, w\u00e4hrend ein anderer anderer anderer anderer anderer anderer anderer anderer er auf einem Fahrrad durch eine h\u00e4lt."
+    },
+    {
+        "ref": "Eine sch\u00f6ne Frau spielt auf einer Harfe.",
+        "hyp": "Eine Frau mit einem kleinen Jungen, der einen Rucksack tr\u00e4gt, steht auf einem Sofa."
+    },
+    {
+        "ref": "Vor einem Geb\u00e4ude sieht ein uniformierter Sicherheitsbeamter hinter einem Zaun in die Kamera.",
+        "hyp": "Ein m\u00e4nnlicher Teenager, der eine Kamera tr\u00e4gt, blickt auf eine Kamera, w\u00e4hrend ein anderer Mann hinter ihm in die Kamera blickt."
+    },
+    {
+        "ref": "Die junge Dame sieht auf die Pizza.",
+        "hyp": "Die junge Dame blickt auf den Strand."
+    },
+    {
+        "ref": "Ein Mann mit freiem Oberk\u00f6rper und Shorts steht auf ein paar Steinen und angelt.",
+        "hyp": "Ein Mann in einem n Hemd steht auf einem Felsen und lehnt sich in einem w\u00e4hrend er er Kleidung zusieht."
+    },
+    {
+        "ref": "Ein M\u00e4dchen in einer Rettungsweste treibt im Wasser.",
+        "hyp": "Ein M\u00e4dchen in einem orangefarbenen Kleid tr\u00e4gt ein ein blaues Kleid und ein anderes M\u00e4dchen in einem Wasserfallr Kleidung."
+    },
+    {
+        "ref": "Ein Mann in Uniform und ein Mann in einem blauen Hemd stehen vor einem Wagen.",
+        "hyp": "Ein Mann in einem blauen Hemd steht vor einem Mann in einem blauen Hemd und tr\u00e4gt ein blaues Hemd."
+    },
+    {
+        "ref": "Leute sitzen in einem Zug.",
+        "hyp": "Eine Menschenmenge sitzt in einem gro\u00dfen Raum und h\u00e4lt eine rote Tasche."
+    },
+    {
+        "ref": "Ein Junge schaukelt mit den F\u00fc\u00dfen in der Luft in einem Wald.",
+        "hyp": "Ein Mann in einem roten Oberteil schaut auf einer Schaukel in die Luft."
+    },
+    {
+        "ref": "Ein Mann in einem roten Hemd betritt ein Etablissement.",
+        "hyp": "Ein Mann in einem roten Hemd und roter Jeans spricht in einem Mann in einem roten Hemd."
+    },
+    {
+        "ref": "Zwei M\u00e4nner in Badehosen springen auf einem m\u00e4\u00dfig belebten Strand in die Luft.",
+        "hyp": "Zwei M\u00e4nner in einem Sweatshirt, die am Strand entlanggeht, tragen ein Fotografen."
+    },
+    {
+        "ref": "Ein kleines Kind kocht mit einer anderen Person.",
+        "hyp": "Eine Person, die ein anderen Person tr\u00e4gt, schaut auf ein andere Person."
+    },
+    {
+        "ref": "Eine Vaterfigur und zwei Kinder machen vor ihrem Zuhause Gartenarbeit wie den Rasen mit einer Gartenhacke zu bearbeiten und einen Baum zu pflanzen.",
+        "hyp": "Eine Frau mittleren Alters im Freien, die auf dem Gras liegt, w\u00e4hrend ein anderer anderer im Freien auf dem Rasen und ein anderer zwei Kinderwagen."
+    },
+    {
+        "ref": "Ein Mann bereitet am Herd Essen zu.",
+        "hyp": "Ein Mann mit einem schwarzen Schal guckt sich am Strand."
+    },
+    {
+        "ref": "Ein Mann in Jeans spielt an einem Strand mit einem roten Ball.",
+        "hyp": "Ein Mann in einem roten Oberteil schnitzt am Strand einen Ball."
+    },
+    {
+        "ref": "Leute gehen auf einem Gehsteig neben einer Reihe von Gesch\u00e4ften.",
+        "hyp": "Menschen gehen auf einem Gehweg neben einem Gehweg entlang."
+    },
+    {
+        "ref": "Ein Wakeboarder macht einen Salto w\u00e4hrend er bei hoher Geschwindigkeit an einem Seil gezogen wird.",
+        "hyp": "Ein m\u00e4nnlicher Teenager schneit ein st auf einer schnebedeckten Welle, w\u00e4hrend ein anderer zusieht."
+    },
+    {
+        "ref": "Eine gro\u00dfe Menschenmenge f\u00fcllt eine Stra\u00dfe.",
+        "hyp": "Ein gro\u00dfer Mann sitzt auf einer gro\u00dfen Stra\u00dfe und hat eine gro\u00dfe gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen"
+    },
+    {
+        "ref": "Ein Mann an einem Halteseil geht ins Wasser.",
+        "hyp": "Ein Mann schiebt einen Mann auf einem Gew\u00e4ser in der Ferne einesers."
+    },
+    {
+        "ref": "Eine Frau in Jeans l\u00e4uft vor einem Bus vorbei, auf dem eine Werbung eine Frau zeigt, die \u00fcber den Rand ihrer Sonnenbrille blickt.",
+        "hyp": "Eine Frau geht an einem nackten Geb\u00e4ude mit einem nafrikanischen Rucksack \u00fcber einen Zaun und l\u00e4uft in einem Parkplatz."
+    },
+    {
+        "ref": "Ein Mann in einem pinken Hemd sitzt auf dem Gras und ein Ball ist in der Luft.",
+        "hyp": "Ein Mann in einem rosa Oberteil sitzt auf dem Gras und h\u00e4lt einen rosafarbenen Ball in der Luft."
+    },
+    {
+        "ref": "Ein am Strand geparktes Auto.",
+        "hyp": "Ein Mann am Strand f\u00e4hrt am Strand entlang und f\u00e4hrt am Strand."
+    },
+    {
+        "ref": "Zwei M\u00e4nner in Schwarz in einer Stadt",
+        "hyp": "Zwei M\u00e4nner in schwarzen Westen k\u00e4mpfen in einer Stadt in einer Stadt in einer Stadt, w\u00e4hrend einer ihnen ein schwarzes tr\u00e4gt."
+    },
+    {
+        "ref": "Der Mann in der gelben Hose hebt seine Arme.",
+        "hyp": "Der Mann in der roten Hose hat den Mund seinest."
+    },
+    {
+        "ref": "Zwei M\u00e4nner mit H\u00fcten und Spazierst\u00f6cken schlendern neben einem Gew\u00e4sser bei Sonnenuntergang.",
+        "hyp": "Zwei M\u00e4nner mit Schutzhelmen laufen in der N\u00e4he einer Felswand mit einem Gew\u00e4ser."
+    },
+    {
+        "ref": "Ein Cheerleaderteam macht eine \u00dcbung auf St\u00fchlen.",
+        "hyp": "Ein Mann tr\u00e4gt ein kahlk\u00f6pfiger Kopfh\u00f6rer und l\u00e4uft auf einer Metallbank."
+    },
+    {
+        "ref": "Ein Junge spielt mit einem Erwachsenen au\u00dferhalb des Bildes Dame w\u00e4hrend ein M\u00e4dchen zusieht.",
+        "hyp": "Ein Junge mit einem roten Pullover und ein M\u00e4dchen schaut von einem Jungen, w\u00e4hrend ein Junge zusieht."
+    },
+    {
+        "ref": "Eine Gruppe Menschen, die sich in einem \u00f6ffentlichen Park am\u00fcsieren wollen.",
+        "hyp": "Eine Menschenmenge wartet auf einer Felsen in einer Menschenmenge."
+    },
+    {
+        "ref": "Ein Mann sitzt auf einer Bank w\u00e4hrend er seinen Hund h\u00e4lt und aufs Wasser blickt.",
+        "hyp": "Ein Mann sitzt auf einer Bank und h\u00e4lt ein Hund am Wasser."
+    },
+    {
+        "ref": "Ein Junge und sein j\u00fcngerer Bruder spielen gemeinsam auf einem Spielplatz.",
+        "hyp": "Ein Junge hat sich am Strand seinen Kopf und hat sich seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen seinen Kopfh\u00f6rer am Strand."
+    },
+    {
+        "ref": "Ein blau gekleidete Frau sieht in eine schwarze Ledertasche w\u00e4hrend sie an einem sonnigen Nachmittag auf einer Bank sitzt und Menschen und Autos hinter ihr vorbeiziehen.",
+        "hyp": "Eine Frau in einem schwarzen Mantel sitzt auf einer Bank, w\u00e4hrend eine andere Frau in einem blauen Kleid hinter ihr sitzt."
+    },
+    {
+        "ref": "Der braune Hund steht auf dem Sandstrand.",
+        "hyp": "Der braune Hund steht am Strand und hat den braunen Hund am Strand."
+    },
+    {
+        "ref": "Eine Frau Sitzt mit einem Korb voller Stoff, umgeben von Stoff.",
+        "hyp": "Eine Frau sitzt neben einem Baum, von denen eines Felsensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensensen"
+    },
+    {
+        "ref": "Ein Mann grillt im Freien in seinem Hof.",
+        "hyp": "Ein Mann in einem roten Pullover lehnt sich auf seinem Einrad."
+    },
+    {
+        "ref": "Eine Frau singt in einem Klub mit einem Gitarristen hinter ihr.",
+        "hyp": "Eine Frau in einem schwarzen Mantel wartet hinter einem Mann in einem See."
+    },
+    {
+        "ref": "Gitarristin spielt in einem Nachtklub auf einer roten Gitarre.",
+        "hyp": "Ein rothaariges Kleinkind tr\u00e4gt ein rotes Kleid und Gitarre."
+    },
+    {
+        "ref": "Ein Kind sitzt auf einem Gartenstuhl und sieht zur Kamera auf",
+        "hyp": "Ein Kind sitzt auf einem Stuhl und schaut auf die Kamera."
+    },
+    {
+        "ref": "Zwei Frauen und drei M\u00e4nner blicken auf den Ozean.",
+        "hyp": "Zwei M\u00e4nner schauen auf den Wellen an."
+    },
+    {
+        "ref": "Eine Musikantin mit einer Violine spielt auf der Stra\u00dfe w\u00e4hrend eine Frau mit einer blauen Gitarre zusieht.",
+        "hyp": "Eine Frau mit einem blauen Oberteil und einer blauen Jeans Gitarre spielt auf einer Stra\u00dfe ein Foto."
+    },
+    {
+        "ref": "Ein junges M\u00e4dchen schwimmt in einem Pool",
+        "hyp": "Ein junges M\u00e4dchen in einem Badeanzug schwimmt in einem Schwimmbecken in einem Schwimmbecken."
+    },
+    {
+        "ref": "Mehrere Kinder sind im Freien und bereiten sich auf Tauziehen vor.",
+        "hyp": "Eine Person im Freien, die an einem Felsen zu essen, der im Freien versucht, einen esen zu fangen."
+    },
+    {
+        "ref": "Drei Teenager in einer U-Bahn albern herum.",
+        "hyp": "Drei M\u00e4nner in einer farbenfrohen Weste laufen in einer U-Bahn herum."
+    },
+    {
+        "ref": "Ein brauner Hund l\u00e4uft durchs Gras und seine Zunge h\u00e4ngt heraus.",
+        "hyp": "Ein brauner Hund geht im Gras und hat ein Mann in der Mitte."
+    },
+    {
+        "ref": "Leute sitzen vor einem Geb\u00e4ude im Gras und machen Pause.",
+        "hyp": "Menschen sitzen im Freien, eine Gras, h\u00e4lt ein Geb\u00e4ude."
+    },
+    {
+        "ref": "Mann ohne Hemd starrt vor einem Caf\u00e9 in die Ferne w\u00e4hrend drei Frauen an einer Menschenmenge vorbeigehen.",
+        "hyp": "Ein Mann mit einem nacktem Oberk\u00f6rper und einem schwarzen Rucksack sitzt drau\u00dfen an einem Felsen, w\u00e4hrend ein anderer Mann im Freien sitzt."
+    },
+    {
+        "ref": "Zwei Jungen packen Obst auf das Fahrrad.",
+        "hyp": "Zwei kleine Jungen k\u00e4mpfen um ein kleines Fahrrad, das f\u00e4hrt."
+    },
+    {
+        "ref": "Ein Mann in einem schwarzen T-Shirt spielt Trommel auf einem umgedrehten gelben K\u00fcbel.",
+        "hyp": "Ein Mann mit einem schwarzen T-Shirt, schwarzer Kappe, schwarzer M\u00fctze und schwarzer M\u00fctze, der ein schwarzes T-Shirt tr\u00e4gt, f\u00e4hrt auf einer schnebedeckten tr\u00e4gt, tr\u00e4gt, tr\u00e4gt, f\u00e4hrt ein schwarzes T-Shirt hinunter."
+    },
+    {
+        "ref": "Eine junge K\u00fcnstlerin malt ein Bild einer Frau auf eine Wand.",
+        "hyp": "Eine junge Frau mit einer kleinen kleinen kleinen kleinen kleinen kleinen kleinen jungen T\u00e4towierungen, die eine eine jungen Frau auf einer orangefarbenen Wand tr\u00e4gt, geht an einer Wand entlang."
+    },
+    {
+        "ref": "Zwei Spielerinnen der US-Nationalmannschaft klatschen im Sprung ab, umgeben von zwei weiteren Spielerinnen.",
+        "hyp": "Zwei Frauen gehen an einem Felsen von zwei ihnen umgebenen einen Baum herum."
+    },
+    {
+        "ref": "Ein Mann r\u00fchrt in einem Topf in seiner K\u00fcche.",
+        "hyp": "Ein Mann in einer farbenfrohen Weste schiebt einen Wagen, der auf einer nassenssen angemalt ist."
+    },
+    {
+        "ref": "Ein Junge beim Wakeboarden auf dem See.",
+        "hyp": "Der Junge hat den Kopf eines Junges im Wald an."
+    },
+    {
+        "ref": "Ein Mann arbeitet an einem Hotdog-Stand.",
+        "hyp": "Ein Mann steht auf einem Bahnsteig und h\u00e4lt einen Mann."
+    },
+    {
+        "ref": "Eine gro\u00dfe Gruppe von Menschen unterschiedlichen Alters und Geschlechts sitzt gemeinsam im Freien.",
+        "hyp": "Ein gro\u00dfer gro\u00dfer gro\u00dfer gro\u00dfer gro\u00dfer gro\u00dfer gro\u00dfer gro\u00dfer Mann sitzt drau\u00dfen vor einem gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen"
+    },
+    {
+        "ref": "Eine blonde Frau schenkt an einer Bar Getr\u00e4nke ein.",
+        "hyp": "Eine blonde Frau mit blonden Haaren lehnt an einem Schreibtisch an einem Schreibtisch."
+    },
+    {
+        "ref": "Ein kleines Kind in einem blau-wei\u00dfen T-Shirt h\u00e4lt gl\u00fccklich einen gelben Plastik-Alligator.",
+        "hyp": "Ein kleines Kind in einem wei\u00dfen T-Shirt und blauen Jeans h\u00e4lt ein kleines Kind in der Hand."
+    },
+    {
+        "ref": "Eine schwarz gekleidete Frau mit rosa Haaren spricht mit einem Mann.",
+        "hyp": "Ein Mann in einem schwarzen Pullover spricht mit einem Mann in einem rosafarbenen Hemd zu einem rosafarbenen."
+    },
+    {
+        "ref": "Der Mann im japanischen Kochgewand bereitet ein Essen f\u00fcr zwei Personen zu.",
+        "hyp": "Der Mann im Anzug tr\u00e4gt ein blaues T-Shirt und zwei Personen in einem Anzug."
+    },
+    {
+        "ref": "Ein M\u00e4dchen springt von Fels zu Fels \u00fcber den Bach.",
+        "hyp": "Ein M\u00e4dchen, das von den Felsen, tr\u00e4gt ein anderes, es, es, es, es, es, es, es, es, es, es, es, es, f\u00e4hrt auf dem Boden."
+    },
+    {
+        "ref": "Ein Arbeiter mit Werkzeugkiste kniet neben zwei Frauen.",
+        "hyp": "Ein m\u00e4nnlicher Teenager kniet neben zwei Frauen, die auf dem Scho\u00df stehen."
+    },
+    {
+        "ref": "Ein \u00e4lterer Mann breitet seine Arme aus und blickt verbl\u00fcfft.",
+        "hyp": "Ein \u00e4lterer Mann mit Bart und m\u00e4nnlicher roter Kappe blickt auf ein Metall."
+    },
+    {
+        "ref": "Ein Kind in einem wei\u00dfen Karateanzug \u00fcbt eine Bewegung.",
+        "hyp": "Ein Kind in einem wei\u00dfen Pullover schiebt einen Mann in einem wei\u00dfen Anzug ein wei\u00dfen Anzug ein Schwimmbecken."
+    },
+    {
+        "ref": "Drei M\u00e4nner in gleichfarbigen Westen halten sich im Freien auf.",
+        "hyp": "Drei M\u00e4nner in blauen Hemden, die im Freien tragen, w\u00e4hrend im Hintergrund ein Mann im Freien."
+    },
+    {
+        "ref": "Eine Frau macht ein Bild von einem Baby mit rosa M\u00fctze, das von einem Mann getragen wird.",
+        "hyp": "Ein Mann mit einem rosafarbenen Hut tr\u00e4gt ein rosafarbenes Baby, w\u00e4hrend ein Mann mit einem rosafarbenem Hut und ein tr\u00e4gt."
+    },
+    {
+        "ref": "Eine Gruppe \u00fcberwiegend asiatischer Kinder sitzt in Arbeitsnischen verteilt auf blauen St\u00fchlen.",
+        "hyp": "Ein asiatisch aussehender asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches asiatisches"
+    },
+    {
+        "ref": "Ein kleiner Junge im Fu\u00dfballdress h\u00e4lt die H\u00e4nde vors Gesicht und weint.",
+        "hyp": "Ein Junge in einem Pullover und mit einer kleinen Jungen in einem Anzug spricht in ein Mikrofon."
+    }
+]

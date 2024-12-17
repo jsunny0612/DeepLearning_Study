@@ -1,0 +1,402 @@
+[
+    {
+        "ref": "Ein Mann mit einem orangefarbenen Hut, der etwas anstarrt.",
+        "hyp": "Ein Mann mit einem orangefarbenen Hut, schl\u00e4ft in einem orangefarbenen Mantel an einem schl\u00e4ft in einem schl\u00e4ft in einem schl\u00e4ft in einem schl\u00e4ft in einem schl\u00e4ft in einem Mann Mann im Hintergrund ist ist ist ist ist ist ist ist ist ist ist ist ist ist ist ist ein Mann Mann Mann, der im Hintergrund an einem schschschschschschl\u00e4ft"
+    },
+    {
+        "ref": "Ein Boston Terrier l\u00e4uft \u00fcber saftig-gr\u00fcnes Gras vor einem wei\u00dfen Zaun.",
+        "hyp": "Ein wei\u00dfer Mann mit einem gr\u00fcnenenenenenenenenenenenenenenenenenenenenenenenenenenen vor einem Gras, w\u00e4hrend eine Frau auf einem gr\u00fcnen, die vor einem gr\u00fcnen, auf einer gr\u00fcnen, vor einem gr\u00fcnen, vor einem gr\u00fcnen, vor einem gr\u00fcnen, auf einem gr\u00fcnen gr\u00fcnen gr\u00fcnen Gras renn"
+    },
+    {
+        "ref": "Ein M\u00e4dchen in einem Karateanzug bricht ein Brett mit einem Tritt.",
+        "hyp": "Ein M\u00e4dchen in einem kleinen M\u00e4dchen in einem kleinen M\u00e4dchen mit einem kleinen M\u00e4dchen in einem kleinen M\u00e4dchen, das in einem kleinen M\u00e4dchen, das mit einem kleinen M\u00e4dchen, das in einem tr\u00e4gt, vor einem w\u00e4hrend ein ein ein ein ein ein ein ein anderes M\u00e4dchen in einem tr\u00e4gt, mit einem tr\u00e4gt, in einem tr\u00e4gt, in einem tr\u00e4gt, in einem tr\u00e4gt, in einem Restaurant ein ein ein ein anderes M\u00e4dchen in einem Restaurant ein anderes"
+    },
+    {
+        "ref": "F\u00fcnf Leute in Winterjacken und mit Helmen stehen im Schnee mit Schneemobilen im Hintergrund.",
+        "hyp": "Ein nes im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee, im Schnee Schnee, im Schnee Schnee Schnee Schnee Schnee"
+    },
+    {
+        "ref": "Leute Reparieren das Dach eines Hauses.",
+        "hyp": "Mehrere Personen stehen in einem schl\u00e4ft einen einen einen schl\u00e4f, der ein ein ein ein schl\u00e4ft, der einen einen einen schl\u00e4ft, der einen einen schl\u00e4ft, der einen einen schl\u00e4ft, der einen einen schl\u00e4ft, der einen einen schl\u00e4ft, der einen einen schl\u00e4ft, der einen einen schl\u00e4ft, der einen einen"
+    },
+    {
+        "ref": "Ein hell gekleideter Mann fotografiert eine Gruppe von M\u00e4nnern in dunklen Anz\u00fcgen und mit H\u00fcten, die um eine Frau in einem tr\u00e4gerlosen Kleid herum stehen.",
+        "hyp": "Ein Mann in einem schwarzen Mantel und mit einem Hut steht in einem schl\u00e4ft in einem schl\u00e4ft in einem eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee, w\u00e4hrend eine Frau in einem eeeeeeee, die e eee e"
+    },
+    {
+        "ref": "Eine Gruppe von Menschen steht vor einem Iglu.",
+        "hyp": "Eine Gruppe von Menschen steht vor einem kleinen im Park und steht vor einem kleinen im Freien, w\u00e4hrend ein andere Personen stehen vor einem ess im Hintergrund steht."
+    },
+    {
+        "ref": "Ein Junge in einem roten Trikot versucht, die Home Base zu erreichen, w\u00e4hrend der Catcher im blauen Trikot versucht, ihn zu fangen.",
+        "hyp": "Ein Junge in einem roten blauen Pullover, w\u00e4hrend ein Junge in einem blauen, er Jungen, er Junge in einem blauen, er in einem blauen, blauen, w\u00e4hrend andere in einem blauen, er in einem blauen, er in der in einem roten, er in einem blauen, er in der in einem blauen, blau"
+    },
+    {
+        "ref": "Ein Typ arbeitet an einem Geb\u00e4ude.",
+        "hyp": "Ein Mann auf einem schl\u00e4ft auf einem kleinen, das ein Mann auf einem einem einem kleinen, der ein ein Mann auf einem einem einem einem einem schl\u00e4ft ist, der ein ein Mann auf einem einem einem einem einem einem Geb\u00e4ude auf einem Geb\u00e4ude auf einem Geb\u00e4ude an an einem Geb\u00e4ude auf einem Geb\u00e4ude im Freien."
+    },
+    {
+        "ref": "Ein Mann in einer Weste sitzt auf einem Stuhl und h\u00e4lt Magazine.",
+        "hyp": "Ein Mann in einem roten Mantel sitzt in einem h\u00e4lt eine Frau in einem kleinen im Park und h\u00e4lt ein Mann in einem sitzt auf einer Bank in einem h\u00e4lt ein es Mantel in einem h\u00e4lt ein es Mantel in einem es Mantel und h\u00e4lt ein h\u00e4lt ein es Mantel in einem es Mantel in einem es Mantel in einem es Mantel in einem e"
+    },
+    {
+        "ref": "Eine Mutter und ihr kleiner Sohn genie\u00dfen einen sch\u00f6nen Tag im Freien.",
+        "hyp": "Eine junge Frau und ein junger junger Mann, die auf einem kleinen es, w\u00e4hrend sie sie sie auf einem es an einem kleinen junger eine junger an einem kleinenkleinenkleinen, e junger an einem e junger an einem schschie\u00dfenenenenenenenenenenenen, eeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+        "ref": "M\u00e4nner, die Volleyball spielen, wobei ein Mann den Ball nicht trifft, w\u00e4hrend seine H\u00e4nde immer noch in der Luft sind.",
+        "hyp": "Ein b\u00e4rtiger Mann in einem, der in der, der in einem schwarzen, der in der, der, der in der, der der der der,, der in der der der der der,,,, der in der der der der der der der der der der der in der der der, eine andere andere andere in der, spielen,,, hat, hat,"
+    },
+    {
+        "ref": "Eine Frau, die in einer K\u00fcche eine Schale mit Essen h\u00e4lt.",
+        "hyp": "Eine Frau in einem kleinen in einem kleinen in einem kleinen in einem kleinen in einem kleinen in einem kleinen in einem kleinen Jungen, die eine in einem kleinen in einem Restaurant eine h\u00e4lt, h\u00e4lt, w\u00e4hrend eine Frau in einem Restaurant ein in einem Restaurant ein h\u00e4lt, die eine Frau in einem Restaurant ein in einem Restaurant ein in einer h\u00e4lt, die eine Frau in einem Restaurant ein in einer h\u00e4lt, die eine Frau in einem Restaurant ein"
+    },
+    {
+        "ref": "Ein sitzender Mann, der an einem Tisch in seinem Haus mit einem Werkzeug arbeitet.",
+        "hyp": "Ein Mann in einem langen Mann in einem Restaurant, sitzt an einem Tisch in einem Tisch, er ein Mann in einem Restaurant und eine Frau in einem Restaurant an einem Tisch, sitzt an einem Tisch, sitzt an einem Tisch, hat ein Mann in einem Tisch, er Mann in einem Tisch, der an einem Tisch, sitzt an einem Tisch Tisch Tisch, sitzt an einem Tisch Tisch Tisch Tisch Tisch Tisch Tisch Tisch Tisch, hat, hat, sitzt"
+    },
+    {
+        "ref": "Drei Leute sitzen in einer H\u00f6hle.",
+        "hyp": "Drei Menschen sitzen in einem Park in einem Park in einem Restaurant in einem Restaurant in einem Park sitzendel\u00fcm in einem Park sitzendel\u00fcm in einem Restaurant in einem Restaurant und ein Mikrophonphon in einem Restaurant sitzendel\u00fcm in einem Restaurant sitzendedel\u00fcm in einem Restaurant Restaurant sitzendedededede Menschen sitzendel in einem Park Park Park Park sitzendededededededededededel sitzende Menschen sitzendel in einem Park Park Park"
+    },
+    {
+        "ref": "Ein M\u00e4dchen in einem Jeanskleid l\u00e4uft \u00fcber einen erh\u00f6hten Schwebebalken.",
+        "hyp": "Ein M\u00e4dchen in einem Kleid geht einen einen einen schie\u00dfen Kleid, das in einem Park eine in einem Park ein tr\u00e4gt, geht, in einem Park ein tr\u00e4gt, geht eines M\u00e4dchen in einem Park ein ein ein tr\u00e4gt, geht, in einem Park ein ein anderes M\u00e4dchen in einem Park ein ein anderes M\u00e4dchen in einem Park ein schschschschie\u00dfen Kleid, geht an einem Park in einem Park in einem Park in einem Park ein anderes"
+    },
+    {
+        "ref": "Eine Blondine h\u00e4lt mit einem Mann im Sand H\u00e4ndchen.",
+        "hyp": "Ein Mann mit einem langen blonden Haaren, der in einem kleinen, h\u00e4lt, w\u00e4hrend ein Mann in einem er in einem ess ess es Mantel in einem es es h\u00e4lt, in einem h\u00e4lt, in der Hand in der Hand in einem h\u00e4lt, h\u00e4lt, h\u00e4lt, er ein Mann in der Hand in der Hand in der Hand in der Hand h\u00e4lt, h\u00e4lt,"
+    },
+    {
+        "ref": "Eine Frau in einem Grauen Pulli und mit einer schwarzen Baseballm\u00fctze steht in einem Gesch\u00e4ft in der Schlange.",
+        "hyp": "Eine Frau in einem grauen Mantel steht in einem grauen, schwarzen Pullover und einem grauen Pullover steht in einem grauen Pullover und schwarzen Pullover, w\u00e4hrend eine Frau in einem grauen Pullover im im Park einss einsss in einem grauen Mantel steht."
+    },
+    {
+        "ref": "Die Person im gestreiften Shirt klettert auf einen Berg.",
+        "hyp": "Die Person in einem schl\u00e4ft im schl\u00e4ft im schl\u00e4ft im schl\u00e4ft in einem schschl\u00e4ft im schschschschl\u00e4ft im schschschschschl\u00e4ft im schschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschschsch"
+    },
+    {
+        "ref": "Zwei M\u00e4nner tun so als seien sie Statuen, w\u00e4hrend Frauen ihnen zusehen.",
+        "hyp": "Zwei Frauen, die in schwarzen, w\u00e4hrend andere M\u00e4nner in einem e Frauen Frauen e, e Frauen Frauen e, e Frauen in der N\u00e4he von e, e Frauen Frauen in der N\u00e4he von e, w\u00e4hrend andere M\u00e4nner in der N\u00e4he von e Frauen Frauen Frauen Frauen Frauen Frauen e, e, e, e Frauen Frauen Frauen in der N\u00e4he von e, w\u00e4hrend andere andere M\u00e4nner in der N\u00e4he von e,"
+    },
+    {
+        "ref": "Leute, die vor einem Geb\u00e4ude stehen.",
+        "hyp": "Leute stehen vor einem Geb\u00e4ude, das eines Geb\u00e4udes, steht, steht, die eine Frau, steht, steht, steht, steht, steht, im Freien eine ein Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude und ein Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Geb\u00e4ude Leute Leute Leute Leute Leute Leute Leute Leute Leute Leuten und ein Geb\u00e4ude."
+    },
+    {
+        "ref": "Eine Teenagerin spielt bei einem Spiel Trompete auf dem Feld.",
+        "hyp": "Eine Frau spielt auf einem Feld auf einer Wiese und einer langen auf dem Boden ein auf einer Wiese auf einer Wiese auf dem Boden ein auf einer Wiese."
+    },
+    {
+        "ref": "Eine Frau macht einen Salto auf einem Trampolin am Strand.",
+        "hyp": "Eine Frau in einem langenenen Pullover, die auf einem Strand Strand Strand Strand Strand Strand, w\u00e4hrend eine Frau auf einem Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand"
+    },
+    {
+        "ref": "Ein Mann steht bei einigen Spielautomaten in einer Bar.",
+        "hyp": "Ein Mann in einem Gruppe von von von eines Mantel steht in einer Gruppe von kleinen auf einem Mann in einem kleinenfe und schl\u00e4ft in einem Parkplatz in einem Parkplatz in einem Restaurant ein ein ein ein ein ein ein ein ein Mann in einem Restaurant ein ein ein ein ein ein ein ein ein ein ein ein Mann in einem Restaurant ein ein ein ein ein ein ein ein ein ein einsss Mann in einer Gruppe von von von von von von von"
+    },
+    {
+        "ref": "Eine Frau verwendet eine Bohrmaschine w\u00e4hrend ein Mann sie fotografiert.",
+        "hyp": "Ein Mann h\u00e4lt ein ein ein ein ein ein ein ein Mann, w\u00e4hrend ein Mann ein andere Frau in einem er ert, w\u00e4hrend ein andere andere andere Frau ein andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere, er Mann ein andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere, w\u00e4hrend ein andere andere"
+    },
+    {
+        "ref": "Eine Frau in einem pinken Pulli und einer Sch\u00fcrze putzt einen Tisch mit einem Schwamm.",
+        "hyp": "Eine Frau in einem rosa, einsssss, mit einem rosafarbenen, ein ein Mann in einem Park, der einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen Tisch, der mit einem rosafarbenen"
+    },
+    {
+        "ref": "Ein Mann schneidet ste von B\u00e4umen.",
+        "hyp": "Ein Mann tr\u00e4gt ein schl\u00e4ft im hhhhhhhhhhhhhhh Mann im hat ein eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+        "ref": "Eine Gruppe Asiatischer Jungen wartet am Grill darauf, dass Fleisch gar wird.",
+        "hyp": "Ein asiatisches asiatisches asiatisches asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asiatische asia"
+    },
+    {
+        "ref": "Frauen, die traditionelle Kleidung tragen, spielen das Leben Einheimischer nach.",
+        "hyp": "Ein m\u00e4nnlicher, tr\u00e4gt,,, ein schwarzes, tr\u00e4gt, tr\u00e4gt,, tr\u00e4gt,, tr\u00e4gt,, tr\u00e4gt,, tr\u00e4gt, es, tr\u00e4gt, es, tr\u00e4gt, tr\u00e4gt, es, tr\u00e4gt, tr\u00e4gt, es, tr\u00e4gt, tr\u00e4gt, tr\u00e4gt, es, tr\u00e4gt, tr\u00e4gt, es"
+    },
+    {
+        "ref": "Ein Mann dr\u00fcckt den Kopf eines anderen Mannes nach unten und will ihm ins Gesicht schlagen.",
+        "hyp": "Ein Mann in einem schwarzen Mantel und ein Mann h\u00e4lt eine seinen Arm in einem anderen Mann im schl\u00e4ft in der Hand, w\u00e4hrend ein anderer Mann im h\u00e4lt, er Mann im h\u00e4lt, h\u00e4lt, h\u00e4lt, er ein anderer Mann im h\u00e4lt, in der Hand in der Hand in der Hand h\u00e4lt, h\u00e4lt, h\u00e4lt, h\u00e4lt, h\u00e4lt, h\u00e4lt, h\u00e4lt, h\u00e4lt, h\u00e4lt,"
+    },
+    {
+        "ref": "Sechs Leute fahren Mountainbikes durch eine Dschungellandschaft.",
+        "hyp": "Ein schwarzes Leute, w\u00e4hrend ein es es es auf einem schl\u00e4ft, auf einem er in einem er ein schl\u00e4ft, er in einem er in einem schl\u00e4ft, er ein er in einem schwarzen, er in einem er er er schl\u00e4ft, er einen Berg, er in einem er ein schl\u00e4f"
+    },
+    {
+        "ref": "2 blonde M\u00e4dchen sitzen auf einem Absatz auf einem belebten Platz.",
+        "hyp": "Ein blondes M\u00e4dchen in einem roten Mantel sitzt auf einer Bank in einem Parkbank eines schl\u00e4ft in einem Parkplatz eines M\u00e4dchens, auf einer Bank in einem Parkbank eine Frau auf einem Parkbank eine sitzt auf einer Bank in einem Parkbank."
+    },
+    {
+        "ref": "Ein Kind planscht im Wasser.",
+        "hyp": "Ein Kind im im n Haar Haar, das im im im im im im im im im im im im im im im im An Anzug im im im im im im n Anzugzugzugzugzug im Wasser schwimmt ist ist ist, w\u00e4hrend im im im im im im im im im im im im im im Park im Wasser schl\u00e4ft ist ist ist ist ist ist ist ist ist ist ist ist ist ist ist ist ist"
+    },
+    {
+        "ref": "Drei Leute sitzen an einem Picknicktisch vor einem Geb\u00e4ude, das wie der Union Jack bemalt ist.",
+        "hyp": "Drei Personen sitzen an einem Tisch, w\u00e4hrend ein Mann in einem Tisch im Freien, der eine Frau auf einem Tisch sitzen, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, w\u00e4hrend ein ein ein ein ein ein ein andere Personen an einem Tisch Tisch Tisch Tisch Tisch Tisch Tisch Tisch Tisch und ein ein ein ein ein ein ein ein andere Personen an einem Tisch Tisch Tisch Tisch Tisch Tisch Tisch Tisch Tisch Tisch Tisch"
+    },
+    {
+        "ref": "3 Jungen stehen in ihren Badehosen auf einem Pier.",
+        "hyp": "Ein br\u00fcnette Frau in einem kleinen Jungen in einem kleinen auf einem kleinen auf einem kleinen steht, w\u00e4hrend sie auf einem er in einem essssssssss auf einem e auf einem e in einem em Kopf und eine e auf ihrenigen Tag in einem em Kopf, das in einem w\u00e4hrend sie auf ihrenigen Tag, das auf ihrenigen Tag, das auf"
+    },
+    {
+        "ref": "Ein Angestellter reicht einer Frau auf einem Markt eine T\u00fcte, w\u00e4hrend sie auf Eis gelegten Fisch begutachtet.",
+        "hyp": "Eine \u00e4ltere Frau auf einer Stra\u00dfe in einem kleinen ein, w\u00e4hrend eine eine andere Frau auf einem Markt Markt auf einer Stra\u00dfe in einem Restaurant ein andere Frau auf einer Stra\u00dfe auf einer Stra\u00dfe in einem Restaurant an einem Restaurant an einem schschie\u00dft."
+    },
+    {
+        "ref": "Eine sch\u00f6ne Frau spielt auf einer Harfe.",
+        "hyp": "Eine Frau spielt ein ssssttrinkt eine Frau in einem Parkplatz im Freien, die ein Mikrofon spielt, spielt, spielt, spielt ein Mikrofon."
+    },
+    {
+        "ref": "Vor einem Geb\u00e4ude sieht ein uniformierter Sicherheitsbeamter hinter einem Zaun in die Kamera.",
+        "hyp": "Ein b\u00e4rtigerigerigerigerigerigerigerigerigerigerigerigerigerigerigerigerigerigerigerigerigeriger in einem Park in einem Park, eine eines, der eine in einem Park Park ein ein Geb\u00e4ude, hinter einem Geb\u00e4ude, der ein ein Geb\u00e4ude in einem Geb\u00e4ude, hinter einem Geb\u00e4ude in einem Geb\u00e4ude, der einem Geb\u00e4ude in einem Geb\u00e4ude, hinter einem Geb\u00e4ude, hinter einem Geb\u00e4ude, der eine in einem Geb\u00e4ude in einem Geb\u00e4ude, hinter einem Geb\u00e4ude, hinter einem Geb\u00e4ude,"
+    },
+    {
+        "ref": "Die junge Dame sieht auf die Pizza.",
+        "hyp": "Die junge junge junge junge junge junge junge Dame tr\u00e4gt eine junge junge junge Frau in einem kleinen kleinen Dame schl\u00e4ft tr\u00e4gt eine junge Frau, die eeeeee tr\u00e4gt, hat, hat ein junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge junge Frau tr\u00e4gt, schauschaut ein hat, hat,"
+    },
+    {
+        "ref": "Ein Mann mit freiem Oberk\u00f6rper und Shorts steht auf ein paar Steinen und angelt.",
+        "hyp": "Ein Mann in einem ShirtShirt und ShirtShirt in einem ShirtShirtShirtShirtShirts in einem schl\u00e4ft in einem schl\u00e4ft auf dem Mann im im im im im im im im im im im im im im w\u00e4hrend er Hosenen Hemd steht, w\u00e4hrend er Hoseneeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+        "ref": "Ein M\u00e4dchen in einer Rettungsweste treibt im Wasser.",
+        "hyp": "Ein M\u00e4dchen in einem kleinen M\u00e4dchen in einem kleinen M\u00e4dchen, das in einem tr\u00e4gt, in einem kleinen M\u00e4dchen in einem kleinen M\u00e4dchen in einem tr\u00e4gt, tr\u00e4gt, tr\u00e4gt, in einem tr\u00e4gt, in einem kleinen im im Wasser Wasser Wasser Wasser Wasser Wasser Wasser Wasser Wasser Wasser Wasser Wasser Wasser Wasser Wasser Wasser ein ein ein ein ein ein ein ein ein ein ein einssssssssssssssssssss"
+    },
+    {
+        "ref": "Ein Mann in Uniform und ein Mann in einem blauen Hemd stehen vor einem Wagen.",
+        "hyp": "Ein Mann in einem blauen Hemd und ein Mann in einem blauen Hemd steht vor einem blauen Hemd, in einem blauen Hemd und ein Mann in einem blauen Hemd, der in einem blauen Hemd und ein Mann in einem blauen Hemd in einem blauen Hemd, steht in einem blauen Hemd und ein Mann Mann in einem blauen He"
+    },
+    {
+        "ref": "Leute sitzen in einem Zug.",
+        "hyp": "Leute sitzen in einem kleinen Leute sitzen in einem Restaurant in einem Park in einem Restaurant, sitzt in einem Restaurant in einem Restaurant in einem Restaurant in einem Restaurant in einem Restaurant ein Mikrofononononononononon."
+    },
+    {
+        "ref": "Ein Junge schaukelt mit den F\u00fc\u00dfen in der Luft in einem Wald.",
+        "hyp": "Ein Kind in einem schl\u00e4ft in einem Park in einem Park in einem Park in einem Park in einem er, das in der Luft er in der Luft, in der Luft hat, w\u00e4hrend ein anderessssssssss Kind in einem Park ein andere in der Luft zusieht."
+    },
+    {
+        "ref": "Ein Mann in einem roten Hemd betritt ein Etablissement.",
+        "hyp": "Ein Mann in einem roten Hemd roten Hemd in einem roten Hemd roten Mann in einem roten Hemd, der in einem roten Hemd eine Frau in einem roten Hemd, roten Hemd in einem roten Hemd, roten Hemd in einem Mann in einem roten Hemd, roten Hemd ein Mann in"
+    },
+    {
+        "ref": "Zwei M\u00e4nner in Badehosen springen auf einem m\u00e4\u00dfig belebten Strand in die Luft.",
+        "hyp": "Zwei M\u00e4nner in einem langen schneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee in einem schn in einem schneeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+        "ref": "Ein kleines Kind kocht mit einer anderen Person.",
+        "hyp": "Ein Mann mit einem schwarzen Mantel, der einen anderen anderen eine andere Person, die ein ein andere Person, w\u00e4hrend ein andere Person ein andere Person ein andere Person ein andere Person ein andere Person ein andere Person ein andere Person ein andere Person ein andere Person ein andere Person ein andere Person ein anderes einem anderen Person, die andere Person ein andere Person ein andere Person ein anderessssss einem anderen Person tr\u00e4gt, ein andere Person ein anderesssss"
+    },
+    {
+        "ref": "Eine Vaterfigur und zwei Kinder machen vor ihrem Zuhause Gartenarbeit wie den Rasen mit einer Gartenhacke zu bearbeiten und einen Baum zu pflanzen.",
+        "hyp": "Ein gro\u00dfergro\u00dfergro\u00dfergro\u00dfergro\u00dfergro\u00dfergro\u00dfergro\u00dfergro\u00dfergro\u00dfergro\u00dfer und eine Frau in einem langenlangenlangenlangenlangenlangenlangenlangen, die auf einer Bank im Freien, w\u00e4hrend zwei Kinder Kinder Kinder Kinder Kinder, er auf einer Bank eins es es es hat, die auf einer Bank im Freien und zwei Kinder Kinder Kinder Kinder Kinder Kinder, es hat, hat, w\u00e4hrend zwei Kinder Kinder Kinder Kinder Kinder Kinder,"
+    },
+    {
+        "ref": "Ein Mann bereitet am Herd Essen zu.",
+        "hyp": "Ein Mann schl\u00e4ft auf dem er er er er er Mann, w\u00e4hrend er er er er er er Mann auf einem er er er er er er er er Mann auf dem Boden er Mann Mann auf dem Boden er er er Mann auf dem Boden er Mann im er er er er Mann auf dem Boden er Mann im er er"
+    },
+    {
+        "ref": "Ein Mann in Jeans spielt an einem Strand mit einem roten Ball.",
+        "hyp": "Ein Mann in einem rotenen T-Shirt spielt mit einem roten Ball in einem roten Anzug, w\u00e4hrend ein Mann in einem roten Anzug mit einem roten Anzug im Hintergrund spielen Mann in einem roten Anzug zusieht, der Hand in einem rotenen roten rotenen rotenenenen roten tr\u00e4gt, spielt, spielt, er einen Tennisball zu sehen,"
+    },
+    {
+        "ref": "Leute gehen auf einem Gehsteig neben einer Reihe von Gesch\u00e4ften.",
+        "hyp": "Leute gehen auf einem Gehweg, die eine schl\u00e4ft, in einem eeeeeee, die andere Personen gehen, gehen einen Gehweg entlang, w\u00e4hrend eine andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere"
+    },
+    {
+        "ref": "Ein Wakeboarder macht einen Salto w\u00e4hrend er bei hoher Geschwindigkeit an einem Seil gezogen wird.",
+        "hyp": "Ein b\u00e4rtiger Mann in einem roten Pullover, w\u00e4hrend ein in einem er in einem er in einem schie\u00dft, w\u00e4hrend ein anderessssssss er in einem Park in einem Park in einem Park ein anderes er in einem Park in einem Park ein anderes er in einem Park ein anderes er in einem Park ein anderes er in einem Park ein anderes schie\u00dfen,"
+    },
+    {
+        "ref": "Eine gro\u00dfe Menschenmenge f\u00fcllt eine Stra\u00dfe.",
+        "hyp": "Eine gro\u00dfe Gruppe von Menschen auf einer gro\u00dfen Stra\u00dfe, die eine gro\u00dfe gro\u00dfe gro\u00dfe Gruppe von einem gro\u00dfen Gruppe von einem gro\u00dfen, gro\u00dfen Gruppe von gro\u00dfen Menschen auf einer gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen gro\u00dfen Gruppe von einem gro\u00dfen, die eine gro\u00dfe Menschen auf einer Stra\u00dfe, gro\u00dfen Gruppe von gro\u00dfen Gruppe von gro\u00dfen Menschenmenge, die eine gro\u00dfe gro\u00dfe Menschen auf einer Stra\u00dfe entlang, gro\u00dfen Gruppe von einem gro\u00dfen Gruppe von"
+    },
+    {
+        "ref": "Ein Mann an einem Halteseil geht ins Wasser.",
+        "hyp": "Ein Mann auf einem schl\u00e4ft in ein Mikrofon, w\u00e4hrend ein Mann in ein Mann auf einer er Mann inssss Wasser auf einer schie\u00dfen schl\u00e4fon auf einem schie\u00dft."
+    },
+    {
+        "ref": "Eine Frau in Jeans l\u00e4uft vor einem Bus vorbei, auf dem eine Werbung eine Frau zeigt, die \u00fcber den Rand ihrer Sonnenbrille blickt.",
+        "hyp": "Eine Frau in einem blauen Pullover geht mit einem kleinen, eine Frau in einem e, die eine Frau in einem w\u00e4hrend eine Frau in einem e in einem Restaurant ein Mann in einem Restaurant in einem Restaurant in einem Restaurant ein, die eine Frau in einem Restaurant ein e in einem Restaurant an einem Restaurant mit einem e in einem Restaurant an einem et, die eine Frau in einem e in einem Restaurant an einem et, die eine Frau in"
+    },
+    {
+        "ref": "Ein Mann in einem pinken Hemd sitzt auf dem Gras und ein Ball ist in der Luft.",
+        "hyp": "Ein Mann in einem rosa Hemd und einem rosa Oberteil sitzt in einem Gras in einem Gras im Gras, w\u00e4hrend ein Mann im Gras im sitzt im Gras im Gras im Gras einen Tennis einen Tennisball in einem Gras und ein Mann im Gras einen Tennis Tennis Tennisball in einem sitzt im Gras einen Tennis Tennis Tennis Tennis Tennis Tennis Tennisball in einem Ball"
+    },
+    {
+        "ref": "Ein am Strand geparktes Auto.",
+        "hyp": "Ein gro\u00dfer m\u00e4nnlicher Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand"
+    },
+    {
+        "ref": "Zwei M\u00e4nner in Schwarz in einer Stadt",
+        "hyp": "Zwei M\u00e4nner in einem schwarzenenenenenen, die in einem schwarzen, schwarzen, tr\u00e4gt, in einer schwarzen, in einer schwarzen, in einer schwarzen, in einer schwarzen, in einer schwarzen, in einer schwarzen, in einer schwarzen, die eine schwarzen, in einer schwarzen, in einem schwarzen, in einer schwarzen, in einer schwarzen,"
+    },
+    {
+        "ref": "Der Mann in der gelben Hose hebt seine Arme.",
+        "hyp": "Der Mann in einem roten Mantel hat seinen Mann im schl\u00e4ft im hat seinen seinen seinen seinen Mann im seinen seinen seinen seinen Mann im seinen seinen seinen Mann im seinen seinen seinen Mann im seinen seinen seinen seinen Mann im seinen seinen seinen Mann im seinen hat seinen Mann im seinen Arm Arm Arm Arm Arm Arm Arm Arm Arm Arm Arm Arm"
+    },
+    {
+        "ref": "Zwei M\u00e4nner mit H\u00fcten und Spazierst\u00f6cken schlendern neben einem Gew\u00e4sser bei Sonnenuntergang.",
+        "hyp": "Zwei M\u00e4nner mit langen Haaren und eine langen, die eine ee, die eine tr\u00e4gt, gehen, gehen, in einer tr\u00e4gt, die eine tr\u00e4gt, gehen, in einer tr\u00e4gt, die eine tr\u00e4gt, gehen, in einer tr\u00e4gt, die eine tr\u00e4gt, gehen, die eine tr\u00e4gt, in einer tr\u00e4gt, die eine tr\u00e4gt, in einer tr\u00e4gt, die eine tr\u00e4gt, gehen, in einer tr\u00e4gt, die eine tr\u00e4gt"
+    },
+    {
+        "ref": "Ein Cheerleaderteam macht eine \u00dcbung auf St\u00fchlen.",
+        "hyp": "Ein bbbb in einem langen langen langen langen langen hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+    },
+    {
+        "ref": "Ein Junge spielt mit einem Erwachsenen au\u00dferhalb des Bildes Dame w\u00e4hrend ein M\u00e4dchen zusieht.",
+        "hyp": "Ein Junge, der ein M\u00e4dchen, w\u00e4hrend ein M\u00e4dchen, ein Junges M\u00e4dchen, ein M\u00e4dchen, ein Junge in einem tr\u00e4gt, ein M\u00e4dchen, ein Junges ein M\u00e4dchen, ein M\u00e4dchen, ein Mann auf einem schaut, w\u00e4hrend ein M\u00e4dchen, ein Junge ein M\u00e4dchen, ein M\u00e4dchen, ein Junge zuschaut, schaut, schaut."
+    },
+    {
+        "ref": "Eine Gruppe Menschen, die sich in einem \u00f6ffentlichen Park am\u00fcsieren wollen.",
+        "hyp": "Ein bbbbbbbbbbb in einem Park in einem Park Park Park in einer Menschenmenge, Leute in einem Park in einem Park Park Park in einer Menschenmenge in einem Park Park Park Park Park Park Park Park Park Park Park Park in einer Menschenmenge zu Leuten Menschenmenge, die Menschenmenge zu Leuten, Leutenen, die Menschenmenge zu Leuten, Leuten, in einer Menschen"
+    },
+    {
+        "ref": "Ein Mann sitzt auf einer Bank w\u00e4hrend er seinen Hund h\u00e4lt und aufs Wasser blickt.",
+        "hyp": "Ein Mann sitzt auf einer Bank und h\u00e4lt ein Hund an einem Mann, der auf einer Bank und h\u00e4lt, sitzt und blickt auf ein Hund, blicken auf ein Mann auf ein Mann, blicken auf ein Mann, sitzt und h\u00e4lt, blicken auf ein Mann im Hintergrund sitzendededededede an einem blicken auf ein Mann und blicken auf ein Mann und blicken auf ein Mann, blicken auf"
+    },
+    {
+        "ref": "Ein Junge und sein j\u00fcngerer Bruder spielen gemeinsam auf einem Spielplatz.",
+        "hyp": "Ein Junge und ein Junge spielen bei einem Jungen, der im hat, der der der der der der der der der seinen seinen Junge und ein Junge, spielt, spielt, spielt, spielt, spielt, spielt, hat, spielt, hat, spielt, hat, hat, hat, spielt, hat, hat, hat, hat, hat, hat, hat, hat, hat,"
+    },
+    {
+        "ref": "Ein blau gekleidete Frau sieht in eine schwarze Ledertasche w\u00e4hrend sie an einem sonnigen Nachmittag auf einer Bank sitzt und Menschen und Autos hinter ihr vorbeiziehen.",
+        "hyp": "Eine Frau in einem blauen Mantel und ein schwarzer, w\u00e4hrend sie in einem blauen Mantel in einem sitzt, w\u00e4hrend andere Personen in einem w\u00e4hrend sie in einem sitzt, w\u00e4hrend andere Personen in einem blauen Mantel in einem sitzt, w\u00e4hrend andere Personen in einem w\u00e4hrend sie in einem sitzt, w\u00e4hrend andere Personen in einem sitzt und eine Frau in einem sitzt, w\u00e4hrend sie in einem w\u00e4hrend andere Personen"
+    },
+    {
+        "ref": "Der braune Hund steht auf dem Sandstrand.",
+        "hyp": "Ein brauner Hund steht am Strand Strand und hat sich am Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand Strand"
+    },
+    {
+        "ref": "Eine Frau Sitzt mit einem Korb voller Stoff, umgeben von Stoff.",
+        "hyp": "Eine Frau mit einem langen Haaren, die eine Frau, sitzt, w\u00e4hrend eine Frau in einem e, mit einem ihnen in einem ihnen in einem ihnen in einem Restaurant einen sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, sitzt, er mit einem sitzt, sitzt, er ein andere Frau in einem Restaurant an einem sitzt"
+    },
+    {
+        "ref": "Ein Mann grillt im Freien in seinem Hof.",
+        "hyp": "Ein Mann in einem schwarzen Mantel hat seinen Armen Mann im Anzug, w\u00e4hrend ein Mann im Anzug hat, er Mann im Anzug hat."
+    },
+    {
+        "ref": "Eine Frau singt in einem Klub mit einem Gitarristen hinter ihr.",
+        "hyp": "Eine Frau in einem kleinen, die in einem kleinen, mit einem kleinen in einem kleinen, in einem kleinen, blauen Mantel in einem em in einem eanzug, hinter ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr in einem essst ist, hinter ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr ihr im Hintergrund"
+    },
+    {
+        "ref": "Gitarristin spielt in einem Nachtklub auf einer roten Gitarre.",
+        "hyp": "Ein rotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrotrot"
+    },
+    {
+        "ref": "Ein Kind sitzt auf einem Gartenstuhl und sieht zur Kamera auf",
+        "hyp": "Ein Kind, das auf einer einer ein einssss und eines Kind, sitzt auf einer Bank in einem Parkplatz und ein ein und ein, sitzt auf einer Bank, schauen auf einer Bank in einem Parkplatz und eine Frau auf einer Bank, schauen auf einer Bank und ein ein ein ein ein ein ein Kind Kind auf einer Bank, blickt auf ein ein ein ein ein und ein ein an an an an an an an an an an an an an"
+    },
+    {
+        "ref": "Zwei Frauen und drei M\u00e4nner blicken auf den Ozean.",
+        "hyp": "Zwei M\u00e4nner und ein schauen sich im Freien, w\u00e4hrend ein Mann im Freien, er zuschauen, schauen, schauen, schauen zuschauen, schauen, schauen zuschauen, schauen, schauen zuschauen, schauen sich sich sich sich sich sich sich im Freien und ein andere andere andere M\u00e4nner zuschauen, schauen, schauen zuschauen, schauen, schauen zuschauen, schauen zuschauen, schauen zuschauen,"
+    },
+    {
+        "ref": "Eine Musikantin mit einer Violine spielt auf der Stra\u00dfe w\u00e4hrend eine Frau mit einer blauen Gitarre zusieht.",
+        "hyp": "Eine Frau mit einem blauen Mantel, w\u00e4hrend eine Frau mit einem blauen Mantel mit einem blauen Mantel mit einem blauen, die eine Frau in einem blauen Mantel auf einer Stra\u00dfe in einem blauen Mantel mit einem blauen Mantel, w\u00e4hrend eine Frau mit einem blauen Mantel mit einem blauen Mantel mit einem blauen Mantel mit einem blauen Mantel mit einem"
+    },
+    {
+        "ref": "Ein junges M\u00e4dchen schwimmt in einem Pool",
+        "hyp": "Ein junges M\u00e4dchen in einem kleinen M\u00e4dchen in einem Park in einem Park Park Park Park Park in einem Schwimmbecken, das in einem Park ein Schwimmbecken tr\u00e4gt, in einem Schwimmbecken springt in einem Park ein Schwimmbecken, in einem Park ein Schwimmbecken spring spring spring spring spring spring spring springt in einem Park Park Park ein kleines M\u00e4dchen in einem Park Park in einem Schwimmbecken, in einem Schwimmbecken in einem Park Park Park in einem Schwimm"
+    },
+    {
+        "ref": "Mehrere Kinder sind im Freien und bereiten sich auf Tauziehen vor.",
+        "hyp": "Mehrere Kinder spielen im schneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee t sich sich die schneeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+        "ref": "Drei Teenager in einer U-Bahn albern herum.",
+        "hyp": "Drei m\u00e4nnliche in einem langen in einem Shirt in einem Shirts spielen in einem Park Park in einem Park Park in einem Shirts in einem Park Park Park Park Park Park Park Park Park in einem Shirtss spielen im im Park Park Park Park Park Park Park Park Park Park Park Park Park Park Park Park Park Park Park spielen spielen im Park Park Park Park Park Park Park Park Park Park Park Park Park Park Park Park Park Park spielen spielen im Park Park Park"
+    },
+    {
+        "ref": "Ein brauner Hund l\u00e4uft durchs Gras und seine Zunge h\u00e4ngt heraus.",
+        "hyp": "Ein brauner Hund mit einem langen langen langen langen langen braunenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenen, der im Gras tr\u00e4gt, geht, geht im Gras, geht mit einem Gras"
+    },
+    {
+        "ref": "Leute sitzen vor einem Geb\u00e4ude im Gras und machen Pause.",
+        "hyp": "Leute sitzen im Gras, eine Gras, w\u00e4hrend ein andere Personen in einem Geb\u00e4ude im im im im im im im Freien, sitzt, sitzt, Gras, sitzt, Gras, sitzt, Gras, sitzt, Gras und ein andere Personen, Gras, sitzt, Gras, sitzt, Gras, im im im im im im im im im im im im im im im im"
+    },
+    {
+        "ref": "Mann ohne Hemd starrt vor einem Caf\u00e9 in die Ferne w\u00e4hrend drei Frauen an einer Menschenmenge vorbeigehen.",
+        "hyp": "Ein Mann in einem roten Mantel geht an einer Frau in einem schl\u00e4ft in einem geht an einem schneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+        "ref": "Zwei Jungen packen Obst auf das Fahrrad.",
+        "hyp": "Zwei junge \u00e4ltere Jungen laufen auf einem kleinen Jungen, der auf dem Boden tr\u00e4gt, hat, w\u00e4hrend ein kleines hat, hat, es hat, es es hat, es hat, es hat, es hat, es hat, es hat, es hat, es es hat, es"
+    },
+    {
+        "ref": "Ein Mann in einem schwarzen T-Shirt spielt Trommel auf einem umgedrehten gelben K\u00fcbel.",
+        "hyp": "Ein Mann in einem schwarzen T-Shirt und Jeans spielt auf einer schwarzenenenenenenenenenenenenenenen im Freien, der in einem schwarzen, spielt, schwarzen, der in einem schwarzen, schwarzen, der andere in einem schwarzen Mantel, spielt, der im Hintergrund ist eine Frau in einem schwarzen Mantel, spielt, schwarzen ein Mann in einem schwarzen"
+    },
+    {
+        "ref": "Eine junge K\u00fcnstlerin malt ein Bild einer Frau auf eine Wand.",
+        "hyp": "Eine junge Frau auf einer kleinen junger eine junger an einem kleinen Jungen, die eine junge Frau auf einer kleinen auf einer belebten Wand eine junge Frau auf einer belebten Wand, die eine junge Frau auf einer Wand eines an einem schie\u00dft ein Mikrofon an einem schie\u00dft, die eines eines eines eines tr\u00e4gt, auf einer Wand entlang ein Mikrofon."
+    },
+    {
+        "ref": "Zwei Spielerinnen der US-Nationalmannschaft klatschen im Sprung ab, umgeben von zwei weiteren Spielerinnen.",
+        "hyp": "Zwei Frauen, die in einem langen, die zwei eine Frau in einem schwarzen, die zwei eines em T-Shirts tr\u00e4gt, die zwei andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere andere zu sehen sind, die zwei zwei zwei zwei zwei"
+    },
+    {
+        "ref": "Ein Mann r\u00fchrt in einem Topf in seiner K\u00fcche.",
+        "hyp": "Ein Mann in einem langen Mantel schl\u00e4ft in einem kleinen in einem kleinen Park in einem kleinen Park in einem kleinen Park in einem kleinen Park ein Mann im Park ein schie\u00dfen Mantelteltel schie\u00dfen Mantel schie\u00dfen Mantel schie\u00dfen Mantel schie\u00dfen Mantel schie\u00dfen Mantel in einem Mann Mann im Park ein ein schie\u00dfen Mantel in einem schie\u00df"
+    },
+    {
+        "ref": "Ein Junge beim Wakeboarden auf dem See.",
+        "hyp": "Der Junge hat ein schwarzes Junge auf dem Boden und hat ein Junge auf dem Boden hat ein Junge im schl\u00e4ft auf dem Boden hat ein schl\u00e4ft auf dem Boden hat ein hat ein schl\u00e4ft auf dem Boden Boden."
+    },
+    {
+        "ref": "Ein Mann arbeitet an einem Hotdog-Stand.",
+        "hyp": "Ein Mann schl\u00e4ft ein ein ein ein einsssssssssss Mann, das eine Frau ein ein ein ein ein ein ein ein Mann im Freien ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein ein Mann Mann, schschschschschschschschschschschschschschschschschschsch"
+    },
+    {
+        "ref": "Eine gro\u00dfe Gruppe von Menschen unterschiedlichen Alters und Geschlechts sitzt gemeinsam im Freien.",
+        "hyp": "Eine gro\u00dfe Gruppe von Menschen sitzt im Freien, w\u00e4hrend ein gro\u00dfes er Menschen sitzt im Freien, ert und ein gro\u00dfes sitzt drau\u00dfen er, er Menschen sitzen im Freien, er in einem gro\u00dfen, er Kleidung er Kleidung sitzt drau\u00dfen er und hat, er Kleidung er und er Kleidung er Kleidung eren, er Kleidung sitzt drau\u00dfen drau\u00dfen er und hat, er"
+    },
+    {
+        "ref": "Eine blonde Frau schenkt an einer Bar Getr\u00e4nke ein.",
+        "hyp": "Eine Frau mit einem langen blonden Haaren, die an einem schwarzen Mantel tr\u00e4gt, sitzt, w\u00e4hrend eine Frau in einem kleinente hat, e e hat, er in einem kleinen Jungen an einem Tisch mit einem kleinen kleinen kleinen Jungen, die an einem Tisch Tisch in einem kleinen kleinen an einem Tisch mit einem kleinen kleinen kleinen kleinen kleinen kleinen Jungen,"
+    },
+    {
+        "ref": "Ein kleines Kind in einem blau-wei\u00dfen T-Shirt h\u00e4lt gl\u00fccklich einen gelben Plastik-Alligator.",
+        "hyp": "Ein kleines Kind mit einem wei\u00dfen T-Shirt und einem blauen T-Shirt, der einen blauenenenenenenenenen im wei\u00dfen T-Shirts, tr\u00e4gt, tr\u00e4gt, h\u00e4lt, tr\u00e4gt, tr\u00e4gt, tr\u00e4gt, tr\u00e4gt, tr\u00e4gt, tr\u00e4gt, ein gelben ein blaues Kind, tr\u00e4gt, tr\u00e4gt, tr\u00e4gt, tr\u00e4gt, blaues Kind mit einem"
+    },
+    {
+        "ref": "Eine schwarz gekleidete Frau mit rosa Haaren spricht mit einem Mann.",
+        "hyp": "Ein Mann mit schwarzem Haar, der mit einem schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, schwarzen, tr\u00e4gt, in einem Mann in einem schwarzen, in einem schwarzen, in"
+    },
+    {
+        "ref": "Der Mann im japanischen Kochgewand bereitet ein Essen f\u00fcr zwei Personen zu.",
+        "hyp": "Ein Mann in einem Anzug, der in einem Anzug, auf einem ein ein Mann im Hintergrund ist, der zwei Personen in einem Restaurant ein ein ein Mann im Hintergrund ist, steht, hat, steht, hat, der zwei Personen zu sehen ist, ein ein Mann im Hintergrund ist, ein Mann im Hintergrund ist, ein ein Mann im Hintergrund."
+    },
+    {
+        "ref": "Ein M\u00e4dchen springt von Fels zu Fels \u00fcber den Bach.",
+        "hyp": "Ein M\u00e4dchen, das im schl\u00e4ft, das sssssss, w\u00e4hrend ein M\u00e4dchen, das M\u00e4dchen, das esssssss, das M\u00e4dchen, im es, das es, im es, das M\u00e4dchen, im es, das M\u00e4dchen, im tr\u00e4gt, im esssss, tr\u00e4gt, schl\u00e4ft, im esssss"
+    },
+    {
+        "ref": "Ein Arbeiter mit Werkzeugkiste kniet neben zwei Frauen.",
+        "hyp": "Ein Mann in einem langen, em em e Frauen Frauen Frauen e, w\u00e4hrend zwei Frauen Frauen e Frauen e Frauen e Frauen et, die zwei Frauen e Frauen e Frauen e Frauen ee e Frauen in einer Frau in einem e ee e e ee ee ee ee Frauen Frauen Frauen Frauen Frauen Frauen e, die zwei Frauen ee"
+    },
+    {
+        "ref": "Ein \u00e4lterer Mann breitet seine Arme aus und blickt verbl\u00fcfft.",
+        "hyp": "Ein \u00e4lterer Mann und ein \u00e4lteres \u00e4lteres \u00e4lteres \u00e4lteres \u00e4lteres schaut sich die beim Mann, w\u00e4hrend er Mann mit einem er Mann auf dem Kopf und er er er er er er er er er er er er es schaut und schaut."
+    },
+    {
+        "ref": "Ein Kind in einem wei\u00dfen Karateanzug \u00fcbt eine Bewegung.",
+        "hyp": "Ein Kind in einem wei\u00dfen Mantel in einem Park in einem Park ein einer schl\u00e4ft ein ein ein, in einem Park ein anderes Kind in einem Park ein ein anderes Kind in einem Park ein ein ein ein ein ein anderes Kind in einem wei\u00dfen in einem Park ein ein ein anderes Kind in einem Park in einem Park Park in einem Park Park ein ein ein ein ein ein ein ein."
+    },
+    {
+        "ref": "Drei M\u00e4nner in gleichfarbigen Westen halten sich im Freien auf.",
+        "hyp": "Drei M\u00e4nner in in im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im im ssssssssssssssssssssssssssssssssssanan"
+    },
+    {
+        "ref": "Eine Frau macht ein Bild von einem Baby mit rosa M\u00fctze, das von einem Mann getragen wird.",
+        "hyp": "Ein Mann mit einem Hut, w\u00e4hrend eine Frau in einem rosafarbenen Hut, w\u00e4hrend ein Mann mit einem Hut, tr\u00e4gt, er ein Mann in einem Hut, tr\u00e4gt, w\u00e4hrend ein Mann in einem tr\u00e4gt, tr\u00e4gt, hat ein Mann in einem Hut, tr\u00e4gt, w\u00e4hrend ein Mann in einem Hut, tr\u00e4gt, tr\u00e4gt, hat ein ein ein Mann ein ein ein Mann in einem Hut,"
+    },
+    {
+        "ref": "Eine Gruppe \u00fcberwiegend asiatischer Kinder sitzt in Arbeitsnischen verteilt auf blauen St\u00fchlen.",
+        "hyp": "Eine Gruppe von blau gekleideter Kinder Kinder in einem blauenenen sitzt in einem blauen blauen Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder in einem blauen blauen blauen blauen blauen blauen asiatischtischtischtischtischtischtisch aus einer Gruppe Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder Kinder in einem"
+    },
+    {
+        "ref": "Ein kleiner Junge im Fu\u00dfballdress h\u00e4lt die H\u00e4nde vors Gesicht und weint.",
+        "hyp": "Ein kleiner Junge in einem kleinen Jungen in einem kleinen Jungen in einem kleinen Jungen, Shirt Shirt schwingt in einem kleinen Jungen, w\u00e4hrend ein kleiner Jungen in einem kleinen Jungen in einem kleinen Jungen in einem kleinen Jungen in einem kleinen Jungen in einem kleinen Jungen in einem kleinen Jungen, kleinen Jungen in einem kleinen Jungen in einem kleinen Jungen in einem"
+    }
+]

@@ -10,6 +10,12 @@ Week2_image_classification_with_augmentation/runs
 Week5_Text_classification/results
 Week5_Text_classification/runs
 
+Week7_Transformer_Implementation/results
+Week7_Transformer_Implementation/runs
+
+Week9_P_Transformer/results
+Week9_P_Transformer/runs
+
 # Python 캐시 파일 제외
 __pycache__/
 *.pyc
